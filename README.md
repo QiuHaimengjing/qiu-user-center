@@ -2,6 +2,8 @@
 
 ## 项目介绍
 一个简单的初级且通用的用户中心模板，包含用户注册、登录、后台管理功能，适用于项目初始化时使用。
+![](https://github.com/QiuHaimengjing/ImageStorage/blob/main/repositories/qiu-user-center/qiuusercenter01.png)
+![](https://github.com/QiuHaimengjing/ImageStorage/blob/main/repositories/qiu-user-center/qiuusercenter02.png)
 
 ## 项目技术
 ### 前端
